@@ -1,0 +1,42 @@
+[
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "Data",
+    "isNew": false,
+    "description": "Основная реляционная СУБД (relational database) для транзакционных систем.",
+    "status": "stable"
+  },
+  {
+    "name": "Kafka",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": "Платформа событийной интеграции (event streaming) для сценариев с высокой нагрузкой.",
+    "status": "exploring"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": "In-memory хранилище для caching, distributed locks и ephemeral state.",
+    "status": "stable"
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "assess",
+    "quadrant": "Platforms",
+    "isNew": false,
+    "description": "Message broker для сценариев очередей и routing, если Kafka избыточна.",
+    "status": "under-review"
+  },
+  {
+    "name": "Oracle Forms",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "description": "Не использовать для новых решений; допустим только как legacy constraint.",
+    "status": "deprecated"
+  }
+]
