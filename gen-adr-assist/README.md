@@ -23,8 +23,7 @@ gen-adr-assist/
 ├── SKILL.md
 ├── README.md
 ├── assets/
-│   ├── madr-short-template.md
-│   ├── madr-full-template.md
+│   ├── adr-template.md
 │   ├── review-checklist.md
 │   └── tech-radar.json
 └── references/
@@ -42,8 +41,7 @@ gen-adr-assist/
 - `README.md` — краткое описание навыка и состава файлов.
 
 ### `assets/`
-- `madr-short-template.md` — шаблон короткого ADR для review.
-- `madr-full-template.md` — шаблон полного ADR в формате MADR.
+- `adr-template.md` — шаблон ADR в формате MADR.
 - `review-checklist.md` — checklist для проверки draft перед отправкой человеку.
 - `tech-radar.json` — технологический радар в формате Thoughtworks Build Your Own Radar.
 
