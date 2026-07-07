@@ -44,6 +44,7 @@ skill-name/
 | Каталог  | Описание |
 |-------------|------------|
 | `gen-adr-tech-check`  | Проверка соответствия технологий, указанных в **ADR (Architecture Decision Records)**, корпоративным стандартам, зафиксированным в формате **технологического радара ThoughtWorks**. |
+| `roll-dice`  | Простой навык, взятый со страницы спецификации [Agent Skills](https://agentskills.io/skill-creation/quickstart) |
 
 ---
 
