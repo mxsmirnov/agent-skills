@@ -3,4 +3,4 @@
 Навык *roll-dice* бросает кубик (игральную кость)
 Количество бросков и число граней можно указать в формате XdY, где X-количество бросков, Y-число граней
 
-Пример навыка был предложен на странице странице стандарта [Agent SKills](https://agentskills.io/skill-creation/quickstart) 
+Пример навыка был предложен на странице стандарта [Agent SKills](https://agentskills.io/skill-creation/quickstart) 
