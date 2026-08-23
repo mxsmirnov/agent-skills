@@ -13,10 +13,9 @@ Transform raw text into structured requirements stored in `req.md`. Requirement 
 1. **Input**: Unstructured text describing needs, constraints, or capabilities.
 2. **Parse**: Split into sentences/clauses expressing requirements.
 3. **Extract**: Identify or infer `Condition`, `Subject`, `Action`, `Object`, and `Constraint`. Mark missing parts as `(нет)` or `(не указано)`.
-4. **Modal verb**: Use `должен` (mandatory), `следует` (preference), or `может` (allowance).
-5. **Table**: Number requirements and present them in a Markdown table.
-6. **Persistence**: Write to `req.md`, overwriting existing content. Follow the template in `assets/req-template.md`.
-7. **Notes**: Add a rationale section in Russian for ambiguous cases.
+4. **Table**: Number requirements and present them in a Markdown table.
+5. **Persistence**: Write to `req.md`, overwriting existing content. Follow the template in `assets/req-template.md`.
+6. **Notes**: Add a rationale section in Russian for ambiguous cases.
 
 # Instructions
 
