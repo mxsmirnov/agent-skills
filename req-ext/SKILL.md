@@ -25,6 +25,9 @@ When the user provides text:
 2. Display the table in the conversation and write it to `req.md`.
 3. Add notes explaining inferences, splits, or ambiguities.
 4. If information is missing, flag the requirement as "Incomplete" and suggest what is needed.
+<!-- 5. Keep Russian verbs in their original conjugated form (e.g., «создаёт», not «создавать») in the `Action` column. Do not normalise to infinitive unless the text explicitly uses an infinitive or a modal verb.
+6. Object column: include both direct and indirect objects; highlight the direct one in bold.
+7. Constraint column: fill only with explicit constraints and non‑functional requirements -->
 
 # What the Skill Does NOT Do
 
